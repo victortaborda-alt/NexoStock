@@ -1,0 +1,17 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+*.suo
+appsettings.Local.json
+*.db
+*.db-shm
+*.db-wal
+.env
+
+# Local secrets
+secrets.json
+
+# IDE
+.vscode/
